@@ -1,3 +1,5 @@
+*** DISCOURSE ON DIGITALOCEAN ***
+
 **Set up Discourse on a cloud server in under 30 minutes** with zero knowledge of Ruby, Rails or Linux shell using our [Discourse Docker image][dd]. This guide uses [Digital Ocean][do], these steps will work on other cloud providers and local installs that also support Docker. Let's begin!
 
 # Create New Digital Ocean Droplet
